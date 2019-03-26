@@ -1,0 +1,7 @@
+def categoria(n)
+    if n == 2
+
+
+
+
+def sueldoPepe()
